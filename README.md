@@ -1,7 +1,7 @@
 # 🌌 Gemini Website
 
 A responsive **frontend-only website** built with **React**, **Bootstrap**, **HTML**, **CSS**, and **JavaScript**.  
-This project is a static implementation — it does not use any backend or API calls.
+This project is a static implementation — it does not use any backend or API calls. I will add the API`s later when free from other stuff
 
 ---
 
