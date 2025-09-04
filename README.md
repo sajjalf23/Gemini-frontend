@@ -1,13 +1,24 @@
-# React + Vite
+# 🌌 Gemini Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **frontend-only website** built with **React**, **Bootstrap**, **HTML**, **CSS**, and **JavaScript**.  
+This project is a static implementation — it does not use any backend or API calls.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Responsive layout powered by **Bootstrap Grid**
+- Modern design with **custom CSS styling**
+- Interactive elements using **vanilla JavaScript**
+- Built with **React components** for modularity
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Gemini-frontend" 
+## 🛠️ Tech Stack
+- **React** – Component-based UI
+- **Bootstrap** – Responsive layout & UI utilities
+- **HTML5** – Semantic structure
+- **CSS3** – Styling & animations
+- **JavaScript (ES6+)** – Interactivity
+
+---
+
